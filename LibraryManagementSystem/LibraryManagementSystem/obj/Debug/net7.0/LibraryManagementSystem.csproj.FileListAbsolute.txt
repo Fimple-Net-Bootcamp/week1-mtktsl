@@ -1,0 +1,14 @@
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.exe
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.deps.json
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.dll
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.pdb
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.dll
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\refint\LibraryManagementSystem.dll
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.pdb
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\mtk00\OneDrive\Belgeler\Github\Fimple\Odev_1_Metin_Tarik_Kiki\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\ref\LibraryManagementSystem.dll
